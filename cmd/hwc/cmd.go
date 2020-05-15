@@ -1,8 +1,9 @@
 package main
 
 import (
-	"hwc-tool/commands"
 	"os"
+
+	"github.com/TylerTang06/hwc-tool/commands"
 
 	"github.com/sirupsen/logrus"
 	"github.com/snowzach/rotatefilehook"

@@ -2,7 +2,8 @@ package commands
 
 import (
 	"fmt"
-	"hwc-tool/commands/utils"
+
+	"github.com/TylerTang06/hwc-tool/commands/utils"
 
 	"github.com/gophercloud/gophercloud"
 	"github.com/gophercloud/gophercloud/auth/token"

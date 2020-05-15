@@ -1,0 +1,121 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "DcWcT2zabCOugwR2Eb023MkxLOw=",
+			"path": "github.com/gophercloud/gophercloud",
+			"revision": "53617a3b9415b1787a77259960a0ca5437dd82a7",
+			"revisionTime": "2019-12-19T08:15:49Z"
+		},
+		{
+			"checksumSHA1": "AqTFSX6Gclanl8nWyPR8KC6Vmg0=",
+			"path": "github.com/gophercloud/gophercloud/auth",
+			"revision": "53617a3b9415b1787a77259960a0ca5437dd82a7",
+			"revisionTime": "2019-12-19T08:15:49Z"
+		},
+		{
+			"checksumSHA1": "CTyRLlXwAOaG+gKXlTCwq+/QqDc=",
+			"path": "github.com/gophercloud/gophercloud/auth/aksk",
+			"revision": "53617a3b9415b1787a77259960a0ca5437dd82a7",
+			"revisionTime": "2019-12-19T08:15:49Z"
+		},
+		{
+			"checksumSHA1": "Acly7dpoSsK+++Sj7gUdn6gq7jo=",
+			"path": "github.com/gophercloud/gophercloud/auth/token",
+			"revision": "53617a3b9415b1787a77259960a0ca5437dd82a7",
+			"revisionTime": "2019-12-19T08:15:49Z"
+		},
+		{
+			"checksumSHA1": "b7g9TcU1OmW7e2UySYeOAmcfHpY=",
+			"path": "github.com/gophercloud/gophercloud/internal",
+			"revision": "53617a3b9415b1787a77259960a0ca5437dd82a7",
+			"revisionTime": "2019-12-19T08:15:49Z"
+		},
+		{
+			"checksumSHA1": "d5T5pI5kvOOzGbIvRlwMWgZ/2a0=",
+			"path": "github.com/gophercloud/gophercloud/openstack",
+			"revision": "53617a3b9415b1787a77259960a0ca5437dd82a7",
+			"revisionTime": "2019-12-19T08:15:49Z"
+		},
+		{
+			"checksumSHA1": "oOJkelRgWx0NzUmxuI3kTS27gM0=",
+			"path": "github.com/gophercloud/gophercloud/openstack/identity/v2/tenants",
+			"revision": "53617a3b9415b1787a77259960a0ca5437dd82a7",
+			"revisionTime": "2019-12-19T08:15:49Z"
+		},
+		{
+			"checksumSHA1": "z5NsqMZX3TLMzpmwzOOXE4M5D9w=",
+			"path": "github.com/gophercloud/gophercloud/openstack/identity/v2/tokens",
+			"revision": "53617a3b9415b1787a77259960a0ca5437dd82a7",
+			"revisionTime": "2019-12-19T08:15:49Z"
+		},
+		{
+			"checksumSHA1": "72VEsWDEZkU92MGp+tDFeR3gF+c=",
+			"path": "github.com/gophercloud/gophercloud/openstack/identity/v3/endpoints",
+			"revision": "53617a3b9415b1787a77259960a0ca5437dd82a7",
+			"revisionTime": "2019-12-19T08:15:49Z"
+		},
+		{
+			"checksumSHA1": "x/8V6PViEeiU51TGUNhio0XxPgc=",
+			"path": "github.com/gophercloud/gophercloud/openstack/identity/v3/services",
+			"revision": "53617a3b9415b1787a77259960a0ca5437dd82a7",
+			"revisionTime": "2019-12-19T08:15:49Z"
+		},
+		{
+			"checksumSHA1": "WlgBIXx7P03rZGJtSSIma3kbonk=",
+			"path": "github.com/gophercloud/gophercloud/openstack/identity/v3/tokens",
+			"revision": "53617a3b9415b1787a77259960a0ca5437dd82a7",
+			"revisionTime": "2019-12-19T08:15:49Z"
+		},
+		{
+			"checksumSHA1": "uVlZdSAi9X9tA0f0jSjp2W+xCBM=",
+			"path": "github.com/gophercloud/gophercloud/openstack/ims/v2/cloudimages",
+			"revision": "53617a3b9415b1787a77259960a0ca5437dd82a7",
+			"revisionTime": "2019-12-19T08:15:49Z"
+		},
+		{
+			"checksumSHA1": "hOTxf5bdm8+cwSTO+OO/maDz6ss=",
+			"path": "github.com/gophercloud/gophercloud/openstack/utils",
+			"revision": "53617a3b9415b1787a77259960a0ca5437dd82a7",
+			"revisionTime": "2019-12-19T08:15:49Z"
+		},
+		{
+			"checksumSHA1": "sIDENP0RWZA68+VW9O9siuPVc0g=",
+			"path": "github.com/gophercloud/gophercloud/pagination",
+			"revision": "53617a3b9415b1787a77259960a0ca5437dd82a7",
+			"revisionTime": "2019-12-19T08:15:49Z"
+		},
+		{
+			"checksumSHA1": "u7j18yJpaYsc23+XfJaOrILa5vQ=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "de736cf91b921d56253b4010270681d33fdf7cb5",
+			"revisionTime": "2019-08-07T10:34:36Z"
+		},
+		{
+			"checksumSHA1": "v2EbwA0ByY9y6fas6BYAiovIRVs=",
+			"path": "github.com/snowzach/rotatefilehook",
+			"revision": "2f64f265f58cb742f59d68b12f956c9296746e2d",
+			"revisionTime": "2018-03-27T17:25:21Z"
+		},
+		{
+			"checksumSHA1": "/IwLAWd+bVRFctg6wj1PEaONdjM=",
+			"path": "github.com/urfave/cli",
+			"revision": "934abfb2f102315b5794e15ebc7949e4ca253920",
+			"revisionTime": "2018-08-21T06:40:27Z"
+		},
+		{
+			"checksumSHA1": "dknbA7aiMYr2Ie4QE7UX84algZs=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "bd9dbc187b6e1dacfdd2722a87e83093c2d7bd6e",
+			"revisionTime": "2018-07-27T21:32:08Z"
+		},
+		{
+			"checksumSHA1": "TM3Neoy1xRAKyZYMGzKc41sDFW4=",
+			"path": "gopkg.in/natefinch/lumberjack.v2",
+			"revision": "a96e63847dc3c67d17befa69c303767e2f84e54f",
+			"revisionTime": "2017-05-31T16:03:50Z"
+		}
+	],
+	"rootPath": "github.com/TylerTang06/hwc-tool"
+}
